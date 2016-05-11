@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Second Page</title>
+	
+</head>
+<body>
+<h1>Stuff</h1>
+<p>Hi my name is Jim</p>
+<a href= "firstProject.html">Home Page</a>
+</body>
+</html>
